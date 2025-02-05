@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anakin_bb8</h1>
-<h3 align="center">A passionate software developer from Italy</h3>
+<h3 align="center">A passionate 14 y/o software developer from Italy</h3>
 
-- 🔭 I’m currently working on **NPTE 1.0.7.0**
-
-- 🌱 I’m currently learning **C++**
+- 🔭 I’m currently working on **NPTE 1.2**
 
 
 
